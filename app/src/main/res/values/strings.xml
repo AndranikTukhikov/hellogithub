@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="new_text">This text is new!</string>
+</resources>
